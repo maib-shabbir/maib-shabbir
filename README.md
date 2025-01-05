@@ -1,6 +1,6 @@
 <h2> Hi, I'm Muhammad Maib! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgzZml2cDE4dHU0bGdwdWRhdzRodTB5MGkxZWZxb3ZrM2JpZzJsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="230">
-<p><em>Technical Program Manager at <a href="https://autoplai.com/">AutoPlai</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Project Manager & Consultant at <a href="http://loudlydev.com/">LoudlyDev Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Technical Program Manager at <a href="https://autoplai.com/">AutoPLai </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Project Manager & Consultant at <a href="http://loudlydev.com/">LoudlyDev Global Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <br><br>
