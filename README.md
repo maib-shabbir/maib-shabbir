@@ -5,8 +5,8 @@
 
 <br><br>
 <pre>
-    💼 Team Lead • full-stack dev • Platform Engineer • white-label solutions
-    📖 Software architecture • Distributed systems • ERP • IMS • CMS
+    💼 Project Manager • Project Coordinator • Pre-Sales Engineer • White-label Solutions
+    📖 Software Architecture • Distributed systems • ERP • IMS • CMS
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
